@@ -2,6 +2,7 @@
 <h1> BlackHole🌌Studio .</h1>
 <p>I mostly make simple apps and games and also try to bring as many ideas i get to life as i can .</p>
 
-<a href="https://www.paypal.me/ztf666"><img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_100x26.png" alt="PayPal donation"/> </a>
+<p><small>If you feel like supporting a small solo dev , feel free to donate , thank you ❤️</small></p>
+<a href="https://www.paypal.me/ztf666">💰Paypal </a>
 
 </div>
