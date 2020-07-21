@@ -4,7 +4,7 @@
 
 <p><small>Feel free to help if you feel like it , Thank you.</small></p>
 <button type="button"  onclick="window.open('https://www.paypal.me/ztf666')">
-<img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/pp-acceptance-small.png" alt="PayPal donation" />
+<img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/pp-acceptance-small.png" alt="PayPal donation" onclick="window.open('https://www.paypal.me/ztf666')" />
 </button>
 
 </div>
