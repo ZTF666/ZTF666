@@ -7,7 +7,7 @@
   
   <h6>
     <small><p>Feel free to try my little game !</p>
-    <a href='https://marceline-game.web.app/' target='blank'> </a>
+    <a href='https://marceline-game.web.app/' target='blank'> CASTELIA'S MIGHT</a>
     </small>
   </h6>
 <img width="550" alt="Castelia's might" src="https://github.com/ZTF666/ZTF666/raw/master/src/eastereggs.gif?raw=true">
