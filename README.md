@@ -9,12 +9,7 @@
     <a href='https://marceline-game.web.app/' target='blank'> CASTELIA'S MIGHT</a>
     </small>
   </h6>
-<<<<<<< HEAD
+
 <img width="400" height='200' alt="Castelia's might" src="https://github.com/ZTF666/ZTF666/raw/master/src/eastereggs.gif?raw=true">
 
-[![HitCount](http://hits.dwyl.com/ZTF666/ZTF666.svg)](http://hits.dwyl.com/ZTF666/ZTF666)
-
-=======
-<img width="550" alt="Castelia's might" src="https://github.com/ZTF666/ZTF666/raw/master/src/eastereggs.gif?raw=true">
->>>>>>> c64ddbb58f0789d28fdca63e6ca0e595b1c9d771
 </div>
