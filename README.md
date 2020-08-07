@@ -5,9 +5,8 @@
   <p>Feel free to try my little game !</p>
     <a href='https://marceline-game.web.app/' target='blank'> CASTELIA'S MIGHT</a>
 
-
 <img width="400" height='220' alt="Castelia's might" src="https://github.com/ZTF666/ZTF666/raw/master/src/eastereggs.gif?raw=true">
-
+<br />
 <p><h6>If you feel like helping out feel free to donate here :</h6></p>
 <a href='https://www.paypal.me/ztf666'>        
   <img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_100x26.png" alt="PayPal"/>
