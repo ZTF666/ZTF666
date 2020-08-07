@@ -1,5 +1,5 @@
 <div align="center"><p>Hello there 👋 , i'm a web fanatic , hobbyist game developer , JAMstack lover 🖤 and founder of :</p>
-<h6> BlackHole🌌Studio .</h6>
+<h3> BlackHole🌌Studio .</h3>
  
   <p><small>It's a one man studio , where i mostly make simple apps and games and also try to bring as many ideas -i get- to life as i can .</small> </p>
   <p><small>Most of my work is opensource and free to use,even if it's not top-notch or super professional 😅</small></p>
