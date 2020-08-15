@@ -29,6 +29,3 @@
     <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/>
 </p>
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=ztf666" alt="ztf666" />
-</p>
