@@ -1,8 +1,6 @@
 <h1 align="center">Hello There , i'm a web fanatic , hobbyist game developer , JAMstack lover</h1>
 <h3 align="center">I mostly make simple apps and games and also try to bring as many ideas -i get- to life as i can . Most of my work is open source and free to use</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ztf666" alt="ztf666" /> </p>
-
 - 👾 Check out my little game [Castelia's Might](https://marceline-game.web.app/)
 
 <div align="center">
@@ -31,6 +29,6 @@
     <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/>
 </p>
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ztf666&layout=compact&hide=html" alt="ztf666" />
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=ztf666" alt="ztf666" />
 </p>
