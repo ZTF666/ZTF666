@@ -4,7 +4,7 @@
 - 👾 Check out my little game [Castelia's Might](https://marceline-game.web.app/)
 
 <div align="center">
-<img width="400" height='220' alt="Castelia's might" src="https://github.com/ZTF666/ZTF666/raw/master/src/eastereggs.gif?raw=true">
+<img width="400" height='280' alt="Castelia's might" src="https://github.com/ZTF666/ZTF666/raw/master/src/eastereggs.gif?raw=true">
 </div>
 
 <p align="left">
