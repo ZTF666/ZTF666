@@ -7,7 +7,7 @@
 <img width="400" height='280' alt="Castelia's might" src="https://github.com/ZTF666/ZTF666/raw/master/src/eastereggs.gif?raw=true">
 </div>
 
-<p align="left">
+<p align="center">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
