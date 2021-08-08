@@ -11,9 +11,13 @@
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nocejd" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="mysql" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="php" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="php" width="60" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="sequelize" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="bash" width="60" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
   
