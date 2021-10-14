@@ -1,5 +1,4 @@
-<h1 align="center">Hello There , i'm a web fanatic & hobbyist game developer.</h1>
-<h3 align="center">I mostly make simple apps and games and also try to bring as many ideas -i get- to life as i can . Most of my work is open source and free to use</h3>
+<h1 align="center">Web fanatic & hobbyist game developer.</h1>
 
 - 👾 Check out my little game [Castelia's Might](https://casteliasmight.web.app/)
 
