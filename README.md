@@ -1,6 +1,6 @@
 <h1 align="center">Web fanatic & hobbyist game developer.</h1>
 
-- 👾 Check out my little game [Castelia's Might](https://casteliasmight.web.app/)
+- 👾 Check out my little game [Castelia's Might](https://ztfportfolio.web.app/castelia-s-might)
 
 <div align="center">
 <img width="400" height='280' alt="Castelia's might" src="https://github.com/ZTF666/ZTF666/raw/master/src/eastereggs.gif?raw=true">
