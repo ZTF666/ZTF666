@@ -5,7 +5,7 @@ Always ready to learn new and interesting technologies . I like to create bite s
 Huge fan of World Of Warcraft , Cyberpunk 2077 , Metal Slug and KoF .
 
 
-- I 💜 using : 
+
 
 <p align="center">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
