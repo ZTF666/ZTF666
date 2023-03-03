@@ -21,7 +21,7 @@ Huge fan of World Of Warcraft , Cyberpunk 2077 , Metal Slug and KoF .
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
-    <img src="https://nocode.b-cdn.net/nocode/tools/Integromat-logo.png" alt="make/integromat" width="40" height="40"/>
+    <img src="https://cdn.make.com/img/make/make_app_white_logo.png" alt="make/integromat" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/airtable/airtable-icon.svg" alt="airtable" width="40" height="40"/>
     <img src="https://vectorwiki.com/images/cp1qJ__miro.svg" alt="Miro" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
