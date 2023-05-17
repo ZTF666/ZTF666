@@ -29,7 +29,6 @@ Huge fan of World Of Warcraft , Cyberpunk 2077 , Metal Slug and KoF .
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/1f372be75689d73cae89b6de808149b606b879e1/logos/bubble.svg" alt="Bubble.io"  height="40"/>
     <img src="https://www.vectorlogo.zone/logos/webflow/webflow-icon.svg" alt="Webflow"  height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Construct_3_Logo.svg/600px-Construct_3_Logo.svg.png?20190811071800" alt="Construct2/3"  height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Logo_GDevelop5.png/800px-Logo_GDevelop5.png" alt="GDevelop"  height="40"/>
 
 </p>
 
