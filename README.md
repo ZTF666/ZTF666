@@ -28,6 +28,7 @@ Huge fan of World Of Warcraft , Cyberpunk 2077 , Metal Slug and KoF .
     <img src="https://www.thesixfigurehomestudio.com/wp-content/uploads/2020/03/Notion_app_logo.png" alt="Notion" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/1f372be75689d73cae89b6de808149b606b879e1/logos/bubble.svg" alt="Bubble.io"  height="40"/>
     <img src="https://www.vectorlogo.zone/logos/webflow/webflow-icon.svg" alt="Webflow"  height="40"/>
+    <img src="https://firebasestorage.googleapis.com/v0/b/stocking-pictures.appspot.com/o/framer-logo-3371662522.png?alt=media&token=55b453dd-5d85-4786-b295-9d8f3af5eee5" alt="framer"  height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Construct_3_Logo.svg/600px-Construct_3_Logo.svg.png?20190811071800" alt="Construct2/3"  height="40"/>
 
 </p>
