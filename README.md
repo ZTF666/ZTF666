@@ -33,8 +33,6 @@ Huge fan of World Of Warcraft , Cyberpunk 2077 , Metal Slug and KoF .
 
 </p>
 
-- 👾 Check out my little game [Castelia's Might](https://ztfportfolio.web.app/castelia-s-might)
-
 <div align="center">
 <img width="400"  alt="Castelia's might" src="https://github.com/ZTF666/ZTF666/raw/master/src/eastereggs.gif?raw=true">
 </div>
