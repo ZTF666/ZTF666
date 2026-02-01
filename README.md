@@ -88,11 +88,11 @@
 <hr/>
 
 <div style="text-align: center;">
-    <img width="345" alt="Castelia's might"
-         src="src/eastereggs.gif">
-    <img width="340" alt="Alien Investigators"
-         src="src/investigators.gif">
-    <img width="300" alt="BlueShift Adventure"
-         src="src/redblue.gif" >
+    <a href="https://ztf666.itch.io/castelias-might" target="_blank" style="margin: 0 10px; display: inline-block;">
+        <img width="230" alt="Castelia's might" src="src/eastereggs.gif">
+    </a>
+    <a href="https://ztf666.itch.io/alien-investigators" target="_blank" style="margin: 0 10px; display: inline-block;">
+        <img width="230" alt="Alien Investigators" src="src/investigators.gif">
+    </a>
 </div>
 
