@@ -90,9 +90,9 @@
 <div style="text-align: center;">
     <img width="345" alt="Castelia's might"
          src="src/eastereggs.gif">
-    <img width="300" alt="BlueShift Adventure"
-         src="src/redblue.gif" >
     <img width="340" alt="Alien Investigators"
          src="src/investigators.gif">
+    <img width="300" alt="BlueShift Adventure"
+         src="src/redblue.gif" >
 </div>
 
