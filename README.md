@@ -88,11 +88,11 @@
 <hr/>
 
 <div style="text-align: center;">
-    <img width="300" alt="Castelia's might"
-         src="src/eastereggs.gif" style="margin: 0 5px;">
+    <img width="345" alt="Castelia's might"
+         src="src/eastereggs.gif">
     <img width="300" alt="BlueShift Adventure"
-         src="src/redblue.gif" style="margin: 0 5px;">
-    <img width="300" alt="Alien Investigators"
-         src="src/investigators.gif" style="margin: 0 5px;">
+         src="src/redblue.gif" >
+    <img width="340" alt="Alien Investigators"
+         src="src/investigators.gif">
 </div>
 
