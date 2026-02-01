@@ -88,11 +88,11 @@
 <hr/>
 
 <div style="text-align: center;">
-    <img width="400" alt="Castelia's might"
-         src="https://github.com/ZTF666/ZTF666/raw/master/src/eastereggs.gif?raw=true">
-    <img width="400" alt="BlueShift Adventure"
-         src="https://raw.githubusercontent.com/ZTF666/ZTF666/refs/heads/master/src/investigators.gif">
-             <img width="400" alt="Alien Investigators"
-         src="https://raw.githubusercontent.com/ZTF666/ZTF666/refs/heads/master/src/investigators.gif">
-         
+    <img width="300" alt="Castelia's might"
+         src="src/eastereggs.gif" style="margin: 0 5px;">
+    <img width="300" alt="BlueShift Adventure"
+         src="src/redblue.gif" style="margin: 0 5px;">
+    <img width="300" alt="Alien Investigators"
+         src="src/investigators.gif" style="margin: 0 5px;">
 </div>
+
