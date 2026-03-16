@@ -46,7 +46,7 @@
     <img src="https://cdn.make.com/img/make/make_app_white_logo.png" alt="Make Automation" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/n8n-color.png" alt="n8n Automation" width="40" height="40"/>
     <img src="https://49291ba917ced6f25ff01e5cc5b9a691.cdn.bubble.io/cdn-cgi/image/w=48,h=48,f=auto,dpr=1,fit=contain/f1759262942646x590158697634582800/Bubble%20Brand%20Icon%20Dark%202025.png" alt="Bubble.io Builder" height="40"/>
-    <img src="https://firebasestorage.googleapis.com/v0/b/stocking-pictures.appspot.com/o/framer-logo-3371662522.png?alt=media&token=55b453dd-5d85-4786-b295-9d8f3af5eee5" alt="Framer Builder" height="40"/>
+    <img src="https://framerusercontent.com/images/MadJ73ykiBPmXMK5j0iTVYDPACI.png?width=40&height=40" alt="Framer" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma Design Tool" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase Backend" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/airtable/airtable-icon.svg" alt="Airtable Database" width="40" height="40"/>
