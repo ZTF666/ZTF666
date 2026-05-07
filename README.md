@@ -55,7 +55,7 @@
 <p>Built for experimentation, mechanics, and fun.</p>
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Construct_3_Logo.svg/600px-Construct_3_Logo.svg.png" alt="Construct 2 / 3" height="40"/>&nbsp;<img src="https://raw.githubusercontent.com/vinceliuice/Fluent-icon-theme/8a99a6dee4b2b8033bd3a41787792910d9d40c20/src/scalable/apps/GDevelop.svg" alt="GDevelop" height="40"/>
+  <img src="https://construct-static.com/images/v1759/r/global/construct-3-logo_v43.png" alt="Construct 2 / 3" height="40"/>&nbsp;<img src="https://raw.githubusercontent.com/vinceliuice/Fluent-icon-theme/8a99a6dee4b2b8033bd3a41787792910d9d40c20/src/scalable/apps/GDevelop.svg" alt="GDevelop" height="40"/>
 </p>
 
 <hr/>
