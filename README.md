@@ -61,5 +61,6 @@
 <hr/>
 
 <p align="center">
-    <a href="https://ztf666.itch.io/castelias-might" target="_blank"><img width="230" alt="Castelia's might" src="src/eastereggs.gif"/></a>&nbsp;<a href="https://ztf666.itch.io/alien-investigators" target="_blank"><img width="230" alt="Alien Investigators" src="src/investigators.gif"/></a>
+    <a href="https://ztf666.itch.io/castelias-might" target="_blank"><img width="230" alt="Castelia's might" src="src/eastereggs.gif"/></a>&nbsp;<a href="https://ztf666.itch.io/alien-investigators" target="_blank"><img width="230" alt="Alien Investigators" src="src/investigators.gif"/></a>&nbsp;<a href="https://ztf666.itch.io/knight-of-the-bell" target="_blank"><img width="230" alt="Knight of the bell" src="https://img.itch.zone/aW1hZ2UvNTEzMjY2OC8zMDcyNDk0My5wbmc=/original/SCbFFY.png"/></a>
 </p>
+
