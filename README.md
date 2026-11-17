@@ -4,35 +4,20 @@
 
 ### `~/stack`
 
-<p>
-  <code>no-code</code>&nbsp;&nbsp;&nbsp;
-  <img src="src/bubble.avif" alt="Bubble.io" title="Bubble.io" height="32" align="middle">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/n8n" alt="n8n" title="n8n" height="32" align="middle">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/zapier" alt="Zapier" title="Zapier" height="32" align="middle">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/make" alt="Make" title="Make" height="32" align="middle">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/airtable" alt="Airtable" title="Airtable" height="32" align="middle">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/firebase" alt="Firebase" title="Firebase" height="32" align="middle">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/framer" alt="Framer" title="Framer" height="32" align="middle">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/figma" alt="Figma" title="Figma" height="32" align="middle">
-</p>
-<p>
-  <code>code&nbsp;&nbsp;&nbsp;</code>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" title="PostgreSQL" height="32" align="middle">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/supabase" alt="Supabase" title="Supabase" height="32" align="middle">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" title="MySQL" height="32" align="middle">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" title="JavaScript" height="32" align="middle">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" title="Node.js" height="32" align="middle">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nuxt" alt="Nuxt" title="Nuxt" height="32" align="middle">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/php" alt="PHP" title="PHP" height="32" align="middle">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/python" alt="Python" title="Python" height="32" align="middle">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/sequelize" alt="Sequelize" title="Sequelize" height="32" align="middle">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/gnubash" alt="Bash" title="Bash" height="32" align="middle">
-</p>
-<p>
-  <code>games&nbsp;&nbsp;</code>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/construct3" alt="Construct 3" title="Construct 3" height="32" align="middle">&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/vinceliuice/Fluent-icon-theme/8a99a6dee4b2b8033bd3a41787792910d9d40c20/src/scalable/apps/GDevelop.svg" alt="GDevelop" title="GDevelop" height="32" align="middle">
-</p>
+<table>
+  <tr>
+    <td nowrap><code>no-code</code></td>
+    <td nowrap width="660"><img src="src/bubble.avif" alt="Bubble.io" title="Bubble.io" height="36">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/n8n" alt="n8n" title="n8n" height="36">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/zapier" alt="Zapier" title="Zapier" height="36">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/make" alt="Make" title="Make" height="36">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/airtable" alt="Airtable" title="Airtable" height="36">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/firebase" alt="Firebase" title="Firebase" height="36">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/framer" alt="Framer" title="Framer" height="36">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/figma" alt="Figma" title="Figma" height="36"></td>
+  </tr>
+  <tr>
+    <td nowrap><code>code</code></td>
+    <td nowrap width="660"><img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" title="PostgreSQL" height="36">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/supabase" alt="Supabase" title="Supabase" height="36">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/mysql" alt="MySQL" title="MySQL" height="36">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" title="JavaScript" height="36">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" title="Node.js" height="36">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nuxt" alt="Nuxt" title="Nuxt" height="36">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/php" alt="PHP" title="PHP" height="36">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/python" alt="Python" title="Python" height="36">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/sequelize" alt="Sequelize" title="Sequelize" height="36">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/gnubash" alt="Bash" title="Bash" height="36"></td>
+  </tr>
+  <tr>
+    <td nowrap><code>games</code></td>
+    <td nowrap width="660"><img src="https://cdn.simpleicons.org/construct3" alt="Construct 3" title="Construct 3" height="36">&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/vinceliuice/Fluent-icon-theme/8a99a6dee4b2b8033bd3a41787792910d9d40c20/src/scalable/apps/GDevelop.svg" alt="GDevelop" title="GDevelop" height="36"></td>
+  </tr>
+</table>
 
 ### `~/games`
 
