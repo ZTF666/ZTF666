@@ -5,7 +5,7 @@
 ### `~/stack`
 
 <p align="center">
-  <img src="src/stack.svg" alt="No-code: Bubble, n8n, Zapier, Make, Airtable, Firebase, Framer, Figma. Code: PostgreSQL, Supabase, MySQL, JavaScript, Node.js, Nuxt, PHP, Python, Sequelize, Bash. Games: Construct 3, GDevelop, Usagi." width="840">
+  <img src="src/stack.svg" alt="No-code: Bubble, n8n, Zapier, Make, Airtable, Framer, Figma. Code: PostgreSQL, Supabase, Firebase, MySQL, JavaScript, Node.js, Nuxt, PHP, Python, Sequelize, Bash. Games: Construct 3, GDevelop, Usagi." width="840">
 </p>
 
 ### `~/games`
