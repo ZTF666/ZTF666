@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 190" width="840" height="190" role="img" aria-label="ZTF, software engineer and game dev hobbyist. No-code first, code when it matters.">
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 15px; }
+    .p { fill: #39ff14; }
+    .c { fill: #00f5ff; }
+    .n { fill: #ff2d78; font-size: 30px; font-weight: 700; letter-spacing: 4px; }
+    .t { fill: #cc99ff; }
+    .s { fill: #ffcc00; }
+    .d { fill: #663399; }
+    .cur { fill: #39ff14; animation: blink 1.1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <rect x="1" y="1" width="838" height="188" rx="10" fill="#0a0a0f" stroke="#663399" stroke-width="2"/>
+  <rect x="1" y="1" width="838" height="34" rx="10" fill="#14101f"/>
+  <rect x="1" y="24" width="838" height="12" fill="#14101f"/>
+  <line x1="1" y1="36" x2="839" y2="36" stroke="#663399" stroke-width="1"/>
+  <circle cx="24" cy="18" r="6" fill="#ff2d78"/>
+  <circle cx="46" cy="18" r="6" fill="#ffcc00"/>
+  <circle cx="68" cy="18" r="6" fill="#39ff14"/>
+  <text x="420" y="23" text-anchor="middle" class="d" style="font-size:13px">ZTF@Morocco: ~</text>
+
+  <text x="28" y="70"><tspan class="p">ZTF@Morocco</tspan><tspan class="d">:~$ </tspan><tspan class="c">whoami</tspan></text>
+  <text x="28" y="112" class="n">ZTF</text>
+  <text x="120" y="100" class="t">software engineer · game dev hobbyist</text>
+  <text x="120" y="121" class="s">no-code first · code when it matters</text>
+
+  <text x="28" y="162"><tspan class="p">ZTF@Morocco</tspan><tspan class="d">:~$ </tspan><tspan class="cur">&#9608;</tspan></text>
+</svg>
