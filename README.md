@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="src/header.svg" alt="ZTF — software engineer and game dev hobbyist. No-code first, code when it matters." width="840">
-</p>
-
 ### `~/stack`
 
 <p align="center">
